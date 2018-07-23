@@ -5,9 +5,10 @@
 #name = temmi
 #pizza = tem 
 #puts " Hoi!! Moi name s #{name} and my favs fod s #{pizza}"
-
+favword = supercalifragilisticexpialidocious
 name = "Della"
 intrest = "Art"
 school = "GMS"
 
 puts " Hi! I'm #{name} . I like #{intrest} . My school is #{school} ."
+My favorite word id #
