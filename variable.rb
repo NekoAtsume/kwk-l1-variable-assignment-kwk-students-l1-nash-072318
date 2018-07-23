@@ -11,4 +11,4 @@ intrest = "Art"
 school = "GMS"
 
 puts " Hi! I'm #{name} . I like #{intrest} . My school is #{school} ."
-My favorite word id #
+puts "My favorite word is #{favword}."
